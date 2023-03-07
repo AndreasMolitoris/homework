@@ -211,7 +211,6 @@ margin-bottom: 35px;
 .objednali {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 36px;
     flex-wrap: wrap;
   
 }
@@ -226,6 +225,7 @@ margin-bottom: 35px;
 .objednali img {
     max-width: 362px;
     max-height: 254px;
+    margin-bottom: 36px;
   
 }
 
