@@ -231,12 +231,11 @@ margin-bottom: 35px;
 
 
 .people-subheadline {
- 
-color: #32325f;
-font-family: "Helvetica Neue";
-font-size: 20px;
-font-weight: 400;
-display: block;
+    color: #32325f;
+    font-family: "Helvetica Neue";
+    font-size: 20px;
+    font-weight: 400;
+    display: block;
     margin-bottom: 15px;
 }
 
